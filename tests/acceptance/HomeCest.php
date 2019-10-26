@@ -10,6 +10,6 @@ class HomeCest
     public function tryToTest(AcceptanceTester $I)
     {
     	$I->amOnPage('/');
-    	$I->see('Hello World');
+    	$I->see('Hello EBF');
     }
 }
