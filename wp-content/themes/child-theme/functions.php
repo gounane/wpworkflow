@@ -19,5 +19,5 @@ function add_google_analytic_tag(){
   })(); </script>;
 ANALYTICS;
 
-  //echo $tag;
+  echo $tag;
 }
