@@ -14,7 +14,7 @@ class ExampleTest extends \Codeception\Test\Unit
     {
     }
 
-    // tests example
+    // tests 
     public function testSomeFeature()
     {
         $this->assertFalse(false);
