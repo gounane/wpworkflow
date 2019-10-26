@@ -1,3 +1,4 @@
 vendor/
 wp-config.php
 wp-content/uploads/
+tests/_output/
